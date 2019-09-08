@@ -2,17 +2,19 @@
 
 ## How to use
 
-download the repository
+**a**- download the repository
 
-run:
-**1**
-- npm install
-or
-- yarn install 
-**2**
--npm run dev
-or
--yarn dev
+**b**- run: <br>
+
+**1**: <br>
+- npm install  <br>
+or<br/>
+- yarn install <br> 
+
+**2**: <br>
+-npm run dev  <br>
+or <br>
+-yarn dev <br>
 
 **original problem** *source of stackoverflow's discussion here: https://stackoverflow.com/posts/57841177/edit*:
 I have tried to create a sandbox using codesandbox and stackblitz but concerning Nextjs theses two solutions are still to bêta state it seems. So I have created a minimal repository in Github. You can find it here: https://github.com/Hocoh/nextjs_relative_position_overlaping
