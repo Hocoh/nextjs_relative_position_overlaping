@@ -3,10 +3,9 @@
 ## How to use
 
 **a**- download the repository
-<br>
-**b**- run:  
-<br>
-**1**:  
+<br>  
+**b**- run:
+**1**:
 - npm install  
 or  
 - yarn install   
