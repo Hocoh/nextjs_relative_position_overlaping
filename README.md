@@ -1,4 +1,3 @@
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/with-react-transition-group)
 # nextjs_relative_position_overlaping
 
 ## How to use
