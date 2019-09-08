@@ -3,18 +3,19 @@
 ## How to use
 
 **a**- download the repository
-
+<br>
 **b**- run:  
-
+<br>
 **1**:  
-- npm install  <br>
-or<br/>
-- yarn install <br> 
-
+- npm install  
+or  
+- yarn install   
+  
 **2**:  
-- npm run dev  <br>
-or <br>
-- yarn dev <br>
+- npm run dev  
+or  
+- yarn dev  
+<br>
 
 **c**:  
 your app is ready on http://localhost:3000
