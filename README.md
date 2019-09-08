@@ -17,7 +17,7 @@ or
 <br>
 
 **c**:  
-your app is ready on http://localhost:3000
+the example is ready on http://localhost:3000
  <br>
 
  <hr />
